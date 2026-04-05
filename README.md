@@ -10,10 +10,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rukummaurya">
-    <img src="https://img.shields.io/badge/LinkedIn-Rukum%20Maurya-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rukummaurya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Rukum-Maurya">
-    <img src="https://img.shields.io/badge/GitHub-Rukum--Maurya-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -133,17 +136,9 @@ Python • SQL • PostgreSQL • Tableau • Git • GitHub
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rukummaurya  
-
----
-
 <!-- ===================== FOOTER ===================== -->
 
-## ⚡ Philosophy
+## ⚡ Motto
 
 > I don’t just learn concepts — I build systems like real engineers do 🚀
 
