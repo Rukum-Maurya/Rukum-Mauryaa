@@ -33,7 +33,8 @@
   <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
 </p>
 
-**Core:** Python • SQL • PostgreSQL • Git • GitHub • Excel
+**Core Skills:**  
+Python • SQL • PostgreSQL • Tableau • Excel • Git • GitHub
 
 ---
 
@@ -71,6 +72,22 @@
 🔹 Daily journey building AI systems and agents  
 🔹 Focus on real-world problem solving  
 👉 https://github.com/Rukum-Maurya/100-days-of-agentic-ai  
+---
+
+## 📊 Tableau Journey
+
+🔹 Learning advanced data visualization and analytics techniques  
+🔹 Working on real dashboards with business-focused insights  
+
+**Currently exploring:**
+- Data Blending  
+- Data Modeling  
+- Filters & Calculated Fields  
+- Dashboard Design & UX  
+- Interactive Visualizations  
+
+👉 Coming Soon: Tableau dashboards and case studies
+
 ---
 
 ## 📊 GitHub Stats
