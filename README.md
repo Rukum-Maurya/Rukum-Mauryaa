@@ -1,6 +1,8 @@
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Rukum Maurya</h1>
 
-<h3 align="center">Data Engineer in Progress | Python • SQL • PostgreSQL • ETL</h3>
+<h3 align="center">🚀 Data Engineer in Progress | Python • SQL • PostgreSQL • ETL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real-world+ETL+pipelines;Python+%7C+SQL+%7C+PostgreSQL;QA+to+Data+Engineering+journey;Learning+by+building+real+projects&center=true&width=700&height=50">
@@ -17,6 +19,8 @@
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
+
 ## 🧠 About Me
 
 - 💼 QA Analyst transitioning into **Data Engineering**
@@ -27,17 +31,20 @@
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
 </p>
 
 **Core Skills:**  
 Python • SQL • PostgreSQL • Tableau • Git • GitHub
 
 ---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
@@ -69,6 +76,15 @@ Python • SQL • PostgreSQL • Tableau • Git • GitHub
 
 ---
 
+### 🤖 100 Days of Agentic AI  
+🔹 Daily journey building AI systems and agents  
+🔹 Focus on real-world problem solving  
+👉 https://github.com/Rukum-Maurya/100-days-of-agentic-ai  
+
+---
+
+<!-- ===================== TABLEAU ===================== -->
+
 ## 📊 Tableau Journey
 
 🔹 Learning advanced data visualization and analytics techniques  
@@ -81,16 +97,11 @@ Python • SQL • PostgreSQL • Tableau • Git • GitHub
 - Dashboard Design & UX  
 - Interactive Visualizations  
 
-👉 Coming Soon: Tableau dashboards and case studies
+👉 Coming Soon: Tableau dashboards and case studies  
 
 ---
 
-### 🤖 100 Days of Agentic AI  
-🔹 Daily journey building AI systems and agents  
-🔹 Focus on real-world problem solving  
-👉 https://github.com/Rukum-Maurya/100-days-of-agentic-ai  
-
----
+<!-- ===================== STATS ===================== -->
 
 ## 📊 GitHub Stats
 
@@ -101,6 +112,8 @@ Python • SQL • PostgreSQL • Tableau • Git • GitHub
 
 ---
 
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
 ## 📈 Activity Graph
 
 <p align="center">
@@ -109,21 +122,28 @@ Python • SQL • PostgreSQL • Tableau • Git • GitHub
 
 ---
 
+<!-- ===================== CURRENT FOCUS ===================== -->
+
 ## 🎯 Current Focus
 
-- Building production-style **ETL projects**
+- Building production-style **ETL pipelines**
 - Improving **SQL for analytics and validation**
-- Writing cleaner, more structured **Python projects**
-- Making my GitHub portfolio look like a professional engineer’s profile
+- Writing clean and scalable **Python code**
+- Creating industry-level **GitHub portfolio projects**
 
 ---
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/rukum-maurya
+- 💼 LinkedIn: https://www.linkedin.com/in/rukummaurya  
 
 ---
 
-## ⚡ Motto
+<!-- ===================== FOOTER ===================== -->
 
-> I don’t just learn concepts — I build projects like real engineers do.
+## ⚡ Philosophy
+
+> I don’t just learn concepts — I build systems like real engineers do 🚀
+
